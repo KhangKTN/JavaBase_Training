@@ -1,0 +1,5 @@
+id=AP00001,name=Name,runwaySize=1,maxFixedWing=2,maxRotateWing=3,fixedwingIdList=[5;2],rotatewingIdList=null
+id=AP00005,name=Naesas,runwaySize=6,maxFixedWing=7,maxRotateWing=8,fixedwingIdList=null,rotatewingIdList=null
+id=AP00004,name=Nameee,runwaySize=4,maxFixedWing=5,maxRotateWing=6,fixedwingIdList=null,rotatewingIdList=null
+id=AP00006,name=Haha,runwaySize=1,maxFixedWing=2,maxRotateWing=3,fixedwingIdList=null,rotatewingIdList=null
+id=AP00007,name=Test,runwaySize=5,maxFixedWing=5,maxRotateWing=5,fixedwingIdList=null,rotatewingIdList=null
